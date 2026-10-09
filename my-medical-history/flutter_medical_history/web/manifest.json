@@ -1,0 +1,9 @@
+{
+    "name": "My Medical History",
+    "short_name": "Medical History",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#F8FAFC",
+    "theme_color": "#0D9488",
+    "description": "Personal healthcare & clinical record tracker."
+}

@@ -1,0 +1,6 @@
+{
+  "name": "My Medical History",
+  "description": "Personal healthcare & clinical record tracker for vitals, medication adherence, lab diagnostics, appointments, and emergency medical ID.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

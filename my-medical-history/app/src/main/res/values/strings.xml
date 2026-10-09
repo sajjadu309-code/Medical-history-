@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Medical History</string>
+    <string name="nav_overview">Overview</string>
+    <string name="nav_records">Records</string>
+    <string name="nav_medications">Medications</string>
+    <string name="nav_emergency">Emergency ID</string>
+    <string name="share_pdf_record">Share PDF Record</string>
+    <string name="request_refill">Request Prescription Refill</string>
+    <string name="emergency_action_label">Emergency Medical ID</string>
+    <string name="add_record">Add Clinical Record</string>
+    <string name="log_vital">Log Vital Sign</string>
+    <string name="add_medication">Add Medication</string>
+    <string name="schedule_appointment">Schedule Visit</string>
+    <string name="search_records_hint">Search diagnoses, labs, physicians…</string>
+    <string name="active_medications_title">Active Medications</string>
+    <string name="historical_archive_title">Historical Archive</string>
+    <string name="vital_signs_title">Vital Signs &amp; Biometrics</string>
+    <string name="emergency_card_title">Critical Allergy &amp; Emergency Alert</string>
+</resources>

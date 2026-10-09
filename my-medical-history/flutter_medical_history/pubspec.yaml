@@ -1,0 +1,29 @@
+name: my_medical_history
+description: Personal healthcare & clinical record tracker built with the Modern Clinical Calm design system. Runs 100% offline with local persistence and Google Drive JSON backup/restore.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/fonts/
+  fonts:
+    - family: PlusJakartaSans
+      fonts:
+        - asset: assets/fonts/plus_jakarta_sans.ttf
+    - family: Inter
+      fonts:
+        - asset: assets/fonts/inter.ttf
